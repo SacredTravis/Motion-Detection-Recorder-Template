@@ -1,5 +1,5 @@
 # Motion-Detection-Recorder-Template
-This repository contains a template for a motion detection recorder that automatically detects movement while recording and deletes idle frames. It provides a simple and efficient solution for capturing video footage while filtering out periods of inactivity. 
+This repository contains a template code for a motion detection recorder that automatically detects movement while recording and deletes idle frames. It provides a simple solution for capturing video footage while filtering out periods of inactivity. NOTE that this is a sample code and it does not work on its own, you need to modify it to your specific needs.
 
 Features:
 
